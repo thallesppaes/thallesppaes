@@ -1,17 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=352f3d&height=120&section=header"/>
 
-<h1 align="center">Hello 👋, I'm Thalles Augusto</h1>
-<h4 align="center">I'm studying the first semester of technologist in Systems Analysis and Development, my goal is to work as a Front End developer.
+<h1 align="center">Olá 👋, eu me chamo Thalles Augusto</h1>
+<h4 align="center">Estou cursando o terceiro semestre do tecnólogo em Análise e Desenvolvimento de Sistemas, meu objetivo é atuar como Engenheiro de Qualidade de Software.
 </h4>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=352f3d&size=35&center=true&vCenter=true&width=1000&lines=I'm+25+years+old;I'm+from+Brazil;I'm+a+systems+development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🌱 I’m currently studying **Analysis and systems development**
-
-- 👨‍💻 All of my projects are available at 
-
-- 📫 How to reach me **thalles-paes@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
