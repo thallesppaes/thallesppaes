@@ -1,16 +1,17 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thalles</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalleppaes&color=red&style=fplastic" alt="Profile views" /> </p>
 
+
 ## Sobre mim
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Systems Analysis and Development at Cruzeiro do Sul.
 - 🔭 Working on a system to manage delivery routes.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 
 ## My Skills
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 **Applications and data**
 
@@ -22,6 +23,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+
 
 **Database**
 
@@ -39,14 +41,23 @@
 
 </br>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 </br>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=thallesppaes&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-</br>
-[![card](https://github-readme-stats.vercel.app/api?username=thallesppaes&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 10px;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=thallesppaes&theme=dracula&show_icons=true" />
+    </a>
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallesppaes&theme=dracula&layout=compact" />
+    </a>
+  </div>
+</div>
+
 
 
 ## Contact
